@@ -1,0 +1,40 @@
+h3 {
+  background-color: #0aa5ba;
+  color: white;
+}
+table {
+    width: 98vw;
+    height: 60vh;
+}
+
+th {
+  border: 1px solid rgba(10, 88, 88, 0.352);
+  background-color: #beeef4;
+  color: white;
+}
+.MON td {
+  border: 1px solid #808080;
+  background-color: #f2ecec;
+}
+.TUE td {
+    border: 1px solid #808080;
+    } 
+.WED td {
+    border: 1px solid #808080;
+    background-color: #f2ecec;
+      }
+.THU td {
+    border: 1px solid #808080;
+        }
+.FRI td {
+    border: 1px solid #808080;
+    background-color: #f2ecec;
+          }
+.SAT td {
+    border: 1px solid #808080;
+       }
+.SUN td {
+    border: 1px solid #808080;
+    background-color: #f2ecec;
+              }
+    
